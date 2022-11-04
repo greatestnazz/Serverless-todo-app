@@ -28,9 +28,9 @@
     "serverless-reqvalidator-plugin": "^1.0.4",
     "serverless-webpack": "^5.7.1",
     "ts-loader": "^5.4.5",
-    "typescript": "^3.9.10",
+    "typescript": "~4.6.4",
     "webpack": "^4.46.0"
   },
-  "author": "Deepa Subramanian",
+  "author": "Muhammad-Nasir Shuaib",
   "license": "MIT"
 }
