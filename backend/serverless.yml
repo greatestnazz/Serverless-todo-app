@@ -39,7 +39,7 @@ provider:
      # - name: CreateTodoRequest
       #  contentType: "application/json"
        # schema:
-        #3  required:
+        #  required:
          #   - name
           #  - dueDate
          # properties:
